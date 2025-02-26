@@ -63,13 +63,10 @@ o	The data suggests that demand for FNP's products is widely distributed across 
 FNP’s sales performance shows strong revenue trends during major festive occasions, with opportunities to enhance growth during low-performing months. By refining its logistics, targeted marketing, and product strategies, FNP can maximize customer engagement and revenue.
 
 
+____________
 
 
+![Dashboard Preview](https://github.com/SAMRAT47/Dashboard_Projects/blob/dashboard-branch/Fern%20and%20Petal/fnp%20dashboard.PNG)
 
-_______________________
-
-
-
-![Dashboard Preview](https://github.com/SAMRAT47/Excel_Projects/blob/my-mew-branch/Fern%20and%20Petal/fnp%20dashboard.PNG)
 
 
