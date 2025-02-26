@@ -11,4 +11,6 @@ Would love to hear your thoughts on leveraging data analytics for business growt
 
 #DataAnalytics #SalesInsights #PowerBI #BusinessIntelligence #DataDrivenDecisionMaking
 
+![Dashboard Preview](https://github.com/SAMRAT47/Excel_Projects/blob/my-mew-branch/Fern%20and%20Petal/fnp%20dashboard.PNG)
+
 
