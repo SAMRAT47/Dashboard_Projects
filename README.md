@@ -66,7 +66,7 @@ FNP’s sales performance shows strong revenue trends during major festive occas
 ____________
 
 
-![Dashboard Preview](https://github.com/SAMRAT47/Dashboard_Projects/blob/dashboard-branch/Fern%20and%20Petal/fnp%20dashboard.PNG)
+![Dashboard Preview](https://github.com/SAMRAT47/Dashboard_Projects/blob/excel_dashboard_branch/Fern%20and%20Petal/fnp%20dashboard.PNG)
 
 
 
