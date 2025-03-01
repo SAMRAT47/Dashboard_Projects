@@ -1,4 +1,5 @@
 Hospital Medical Checkup Room Analysis (Power BI)
+
 This project provides an in-depth analysis of hospital medical checkup room utilization using Power BI. The dashboards deliver critical insights into patient checkups, room occupancy, and operational efficiency.
 
 1. Monthly View Dashboard
